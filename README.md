@@ -1,3 +1,3 @@
-REACT + OPENLAYERS
+REACTJS + OPENLAYERS
 
-## Search coordinate
+## You can search a coordinate [longitude, latitude].
